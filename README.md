@@ -1,7 +1,7 @@
 backbone-tree
 =============
 
-This backbone plugin override Backbone.sync to return the data from a json tree created at the client side, replacing the default ajax request
+This backbone plugin that override Backbone.sync to return the data from a json tree created at the client side, replacing the default ajax request
 
 
 Example
